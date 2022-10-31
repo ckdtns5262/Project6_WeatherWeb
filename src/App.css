@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2,h3 {
+ display: flex;
+ justify-content : center;
+}
+h4 {
+  margin: 20px;
+  padding: 20px;
+}
+
+ul{
+	list-style-type:square;
+  padding-left:0;
+}
+
+.butform{
+  display: block;
+   
+}
+.pad {
+  display: flex;
+  justify-content: center;
+}
+
+.lis1 {
+  font-size: larger;
+  margin: 30px;
+  justify-content: space-between;
+  font-display:inherit;
+}
+li::marker {
+  color :hotpink
+}
+.red {
+  font-weight: bold;
+  color: red;
+}
