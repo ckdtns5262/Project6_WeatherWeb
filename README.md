@@ -1,4 +1,4 @@
-# https://ckdtns5262.github.io/Project6_WeatherWeb/
+# https://project6-cf13d.web.app/ (깃페이지 오류로 인한 firebase로 hosting 버젼)
 #### 1. 오픈API를 이용해 중기예보 , 단기예보 데이터를 가지고 왔으며 API명세서를 확인하여 응답 메세지 항목명 파악
   (인증키를 사용하여 공공데이터포털 이용방법 숙지함)
 #### 2. 중기예보 페이지 : n일후 날씨를 각각 버튼을 만들어서 데이터를 구현하였음
